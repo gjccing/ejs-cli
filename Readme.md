@@ -10,10 +10,10 @@
 
 ## Usage
 
-> ejs-cli <tmpl path> <data path>
+> ejs-cli &lt;tmpl path&gt; &lt;data path&gt;
 
-*   __<tmpl path>__ : ejs template file path
-*   __<data path>__ : data file path 
+*   __&lt;tmpl path&gt;__ : ejs template file path
+*   __&lt;data path&gt;__ : data file path 
 
 The data file context will assign to "data" member.
 The data file context will be trying to convert json format.
