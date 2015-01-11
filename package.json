@@ -1,0 +1,19 @@
+{
+  "author": "Hao-Wei Liou",
+  "license": "Apache-2.0",
+  "name": "ejs-cli",
+  "version": "0.0.1",
+  "description": "This is my first module.",
+  "bin": {
+    "ejs-cli": "bin/ejs-cli.js"
+  },
+  "preferGlobal": "true",
+  "dependencies": {
+    "ejs": ">= 2.0.8",
+    "q": ">= 1.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gjccing/ejs-cli.git"
+  }
+}
