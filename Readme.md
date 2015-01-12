@@ -15,5 +15,4 @@
 *   __&lt;tmpl path&gt;__ : ejs template file path
 *   __&lt;data path&gt;__ : data file path 
 
-The data file context will assign to "data" member.
-The data file context will be trying to convert json format.
+資料會放在data成員中，並檢查是否為json格式和轉換。

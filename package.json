@@ -3,7 +3,6 @@
   "license": "Apache-2.0",
   "name": "ejs-cli",
   "version": "0.0.1",
-  "description": "This is my first module.",
   "bin": {
     "ejs-cli": "bin/ejs-cli.js"
   },
