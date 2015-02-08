@@ -2,7 +2,7 @@
   "author": "Hao-Wei Liou",
   "license": "Apache-2.0",
   "name": "ejs-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": {
     "ejs-cli": "bin/ejs-cli.js"
   },
