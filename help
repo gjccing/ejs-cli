@@ -5,5 +5,5 @@ Usage: node [options] [template path] [data path]
 Options:
   -v, --version    print ejs-cli's version
   -h, --help       print help
-  -i, --input      read template data from stdin
-  -f, --file       read template data from file
+  -i, --input      read meta data from stdin
+  -f, --file       read meta data from file
